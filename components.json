@@ -1,0 +1,41 @@
+[
+
+  {
+    "id": "Queen",
+    "src": "./images/queen.png",
+    "femaleQ": "Yes",
+    "maleQ": "No",
+    "youngRoyalQ": "No",
+    "balding": "No"
+  },  
+
+  {
+    "id": "Kate",
+    "src": "./images/kate.jpg",
+    "femaleQ": "Yes",
+    "maleQ": "No",
+    "youngRoyalQ": "Yes",
+    "balding": "No"
+    
+  },  
+
+  {
+    "id": "Charles",
+    "src": "./images/charles.jpg",
+    "femaleQ": "No",
+    "maleQ": "Yes",
+    "youngRoyalQ": "No",
+    "balding": "Yes"
+   
+  },  
+
+  {
+    "id": "Harry",
+    "src": "./images/harry.jpg",
+    "femaleQ": "No",
+    "maleQ": "Yes",
+    "youngRoyalQ": "Yes",
+    "balding": "Yes"
+    
+  }
+  ]
